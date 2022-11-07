@@ -1,0 +1,61 @@
+body {
+  /* background: #0a64c8; */
+  /* text-align: center; */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  /* background: red;
+  color: #ffffff;
+  font-size: 80px; */
+}
+
+.p5Canvas {
+ width: 100% !important;
+ height: auto !important;
+}
+
+.container {
+  border: 1px solid #000;
+}
+
+span.autor {
+  text-transform: uppercase;
+}
+
+#contenedor {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 60px 30px;
+  /* text-align no porque es para alinear el texto, no el bloque */
+}
+
+#colaboradorx {
+  /* width: 300px; */
+  /* margin-top: 30px;
+  margin-right: 100px;
+  margin-bottom: 300px;
+  margin-left: 200px; */
+
+  margin: 30px auto 30px auto;
+  /* margin-left: auto;
+  margin-right: auto; */
+
+
+  border: 10px solid rgb(10, 180, 80);
+
+  padding: 100px;
+
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+  /* height: 300px; */
+}
